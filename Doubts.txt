@@ -1,0 +1,2 @@
+How to add a file only in branch?
+By default all branches will take files in master?
